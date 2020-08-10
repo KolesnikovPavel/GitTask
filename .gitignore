@@ -1,0 +1,6 @@
+/.vs/
+/bin/
+/obj/
+*.csproj
+*.framework.dll
+*.sln
